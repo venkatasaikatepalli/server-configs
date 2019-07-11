@@ -9,3 +9,6 @@ This repo contains server configurations for deploying different application sta
 # List of app servers
 - gunicorn
 - pm2
+
+# List of ssl
+- [certbot](https://github.com/venkatasaikatepalli/server-configs/blob/master/certbot/)
